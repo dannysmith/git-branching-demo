@@ -73,3 +73,42 @@ main {
     background-position: 0% 82%;
   }
 }
+
+.unicorn-pros {
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.unicorn-pros ul {
+  list-style: none;
+  text-align: center;
+}
+
+.unicorn-pros h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bodycopy {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  background-color: #f300a2;
+  width: 80vw;
+}
+
+.para {
+  margin: 0 3vw;
+}
+
+.para.one {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.para.two {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.para.three {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
